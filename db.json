@@ -31,66 +31,67 @@
       "countDays": 30
     }
   ],
+
   "subscriptions": [
     {
       "id": 1,
       "service": "Netflix",
       "ownerId": 1,
-      "type": "wathing"
+      "type": "watch"
     },
     {
       "id": 2,
       "service": "YouTube",
       "ownerId": 1,
-      "type": "watching"
+      "type": "watch"
     },
     {
       "id": 3,
       "service": "XBox",
       "ownerId": 1,
-      "type": "gaming"
+      "type": "game"
     },
     {
       "id": 4,
       "service": "Netflix",
       "ownerId": 2,
-      "type": "wathing"
+      "type": "watch"
     },
     {
       "id": 5,
       "service": "PlayStation",
       "ownerId": 2,
-      "type": "gaming"
+      "type": "game"
     },
     {
       "id": 6,
       "service": "XBox",
       "ownerId": 2,
-      "type": "gaming"
+      "type": "game"
     },
     {
       "id": 7,
       "service": "Megogo",
       "ownerId": 3,
-      "type": "wathing"
+      "type": "watch"
     },
     {
       "id": 8,
       "service": "Amazon",
       "ownerId": 4,
-      "type": "wathing"
+      "type": "watch"
     },
     {
       "id": 9,
       "service": "Spotify",
       "ownerId": 4,
-      "type": "listening"
+      "type": "listen"
     },
     {
       "id": 10,
       "service": "AplleTv",
       "ownerId": 5,
-      "type": "watching"
+      "type": "watch"
     }
 
   ]
