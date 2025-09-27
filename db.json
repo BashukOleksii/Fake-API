@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "AliceEmail@gmail.com",
+      "coundDays": 100
+    },
+    {
+      "id": 2,
+      "name": "Tom",
+      "email": "TomEmail@gmail.com",
+      "countDays": 50
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "email": "JohnEmail@gmail.com",
+      "countDays": 151
+    },
+    {
+      "id": 4,
+      "name": "Kate",
+      "email": "KateEmail@gmail.com",
+      "countDays": 1
+    },
+    {
+      "id": 5,
+      "name": "Sam",
+      "email": "SamEmail@gmail.com",
+      "countDays": 30
+    }
+  ]
+  
+
+}
