@@ -30,7 +30,69 @@
       "email": "SamEmail@gmail.com",
       "countDays": 30
     }
+  ],
+  "subscriptions": [
+    {
+      "id": 1,
+      "service": "Netflix",
+      "ownerId": 1,
+      "type": "wathing"
+    },
+    {
+      "id": 2,
+      "service": "YouTube",
+      "ownerId": 1,
+      "type": "watching"
+    },
+    {
+      "id": 3,
+      "service": "XBox",
+      "ownerId": 1,
+      "type": "gaming"
+    },
+    {
+      "id": 4,
+      "service": "Netflix",
+      "ownerId": 2,
+      "type": "wathing"
+    },
+    {
+      "id": 5,
+      "service": "PlayStation",
+      "ownerId": 2,
+      "type": "gaming"
+    },
+    {
+      "id": 6,
+      "service": "XBox",
+      "ownerId": 2,
+      "type": "gaming"
+    },
+    {
+      "id": 7,
+      "service": "Megogo",
+      "ownerId": 3,
+      "type": "wathing"
+    },
+    {
+      "id": 8,
+      "service": "Amazon",
+      "ownerId": 4,
+      "type": "wathing"
+    },
+    {
+      "id": 9,
+      "service": "Spotify",
+      "ownerId": 4,
+      "type": "listening"
+    },
+    {
+      "id": 10,
+      "service": "AplleTv",
+      "ownerId": 5,
+      "type": "watching"
+    }
+
   ]
-  
 
 }
